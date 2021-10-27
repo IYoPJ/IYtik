@@ -87,13 +87,8 @@ headers = {
 }
 
 tok = ('1416784792:AAHKAhWBkJx0OV6wScDAqdjZL9-VpJCFfVs')
-ok = """
-〰️〰️〰️〰️〰️〰️〰️〰️
-[•] USER TIKTOK 🥳👇🏻
-〰️〰️〰️〰️〰️〰️〰️〰️"""
-mon = """〰️〰️〰️〰️〰️〰️〰️〰️
-[•] @vv1ck ( JOKER )
-"""
+
+
 file = open(jok, "r")
 while True:
 	Check = file.readline().split('\n')[0]
